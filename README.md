@@ -1,2 +1,5 @@
 # Decrementing-operations
-Decrementing operations in JS 
+
+var a = 9, 
+b = 3; 
+b -= a;
